@@ -16,8 +16,8 @@
         "editor.defaultFormatter": "Dart-Code.dart-code"
     },
     "workbench.colorCustomizations": {
-        "activityBar.background": "#4B220B",
-        "titleBar.activeBackground": "#69300F",
+        "activityBar.background": "#3b3b3b",
+        "titleBar.activeBackground": "#353433",
         "titleBar.activeForeground": "#FEF9F7"
     },
 }
