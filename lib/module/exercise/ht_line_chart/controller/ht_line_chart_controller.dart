@@ -42,7 +42,6 @@ class HtLineChartController extends State<HtLineChartView>
         ),
       );
     }
-    salesDataList = [];
     setState(() {});
     /*
     TODO: --
